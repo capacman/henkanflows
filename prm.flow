@@ -1,0 +1,9 @@
+nodes:
+  - name: PARAMETER1
+    type: parameter
+    config:
+      param_name: prm1
+      target: PARAMETER1Target
+      sql_file: sql/f_prm_parameter1.sql
+    dependsOn: []
+config: {}
