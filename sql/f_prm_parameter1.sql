@@ -1,1 +1,1 @@
-select count(1) from connectionmetadata
+select caxt(count(1) as char) from connectionmetadata
