@@ -3,7 +3,7 @@ nodes:
     type: parameter
     config:
       param_name: prm1
-      target: meta_0
+      target: main_0
       sql_file: sql/f_prm_parameter1.sql
     dependsOn: []
 config: {}
